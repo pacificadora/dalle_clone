@@ -1,4 +1,4 @@
 import Home from "./Home";
-import createPost from "./CreatePost";
+import CreatePost from "./CreatePost";
 
-export { Home, createPost };
+export { Home, CreatePost };
